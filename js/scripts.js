@@ -1,5 +1,5 @@
 const btPLus = document.querySelector(".js-plus");
-const containerTransport = document.querySelector("container-transport");
+const containerTransport = document.querySelector(".container-transport");
 
 btPLus.addEventListener("click", ouvreEtFerme);
 
