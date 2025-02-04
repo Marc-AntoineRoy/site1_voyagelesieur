@@ -176,6 +176,7 @@ SECTION FOOTER
 
 footer {
     background-color: black;
+    color: white;
 }
 
 footer .wrapper {
